@@ -1,3 +1,8 @@
+package com.salesianos.personaje;
+
+import com.salesianos.combate.Combate;
+
+
 public class Personaje implements Combate {
     private int salud;
     private int defensa;
