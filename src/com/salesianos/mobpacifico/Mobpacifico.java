@@ -8,3 +8,4 @@ public abstract class Mobpacifico extends Mob implements Daño {
         super(salud);
     }
 }
+
